@@ -1,2 +1,1 @@
-# Stark 
-hi
+# Stark (Smart voice assistant) 
